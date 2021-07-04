@@ -15,6 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Add a 'Slider' to your Website using CSS and Javascript](https://dev.to/devang/add-a-slider-to-your-website-using-css-and-javascript-238e)
+- [Making a URL Shortener website using Axios](https://dev.to/devang/making-a-url-shortener-website-using-axios-4agf)
+- [The master guide to smooth, realistic shadows in CSS](https://dev.to/devang/the-master-guide-to-smooth-realistic-shadows-in-css-463p)
+- [New Javascript (AnimeJS) spinners for website (examples & source code)](https://dev.to/devang/new-javascript-animejs-spinners-for-website-examples-source-code-4j8e)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
