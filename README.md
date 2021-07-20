@@ -3,13 +3,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
-- 🌱 I’m currently learning **JS animation libraries.**
+- 🌱 I’m currently learning **React JS .**
 
 - 👨‍💻 All of my projects are available at [https://devang-saklani.web.app/](https://devang-saklani.web.app/)
 
 - 📝 I regularly write articles on [https://dev.to/devang](https://dev.to/devang)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **SCSS AND CSS**
 
 - 📫 How to reach me **Devangsaklani@gmail.com**
 
