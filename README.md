@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Devang Saklani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1>Hi 👋, I'm Devang Saklani</h1>
+<h3>A passionate frontend developer from India</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
 - 🌱 I’m currently learning **React JS .**
 
