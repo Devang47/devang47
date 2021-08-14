@@ -3,7 +3,8 @@
 
 # Hi, Folks  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Devang Saklani and I'm a Front-end Web developer/Software engineer. I'm from Dehradun, India and currently learning Three-JS. I am also looking for Internship opportunities as a React Developer, So feel free to mail me [here](mailto:devangsaklani@gmail.com). You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+My name is Devang Saklani and I'm a Front-end Web developer/Software engineer. I'm from Dehradun, India and currently learning Three-JS. I am also looking for Internship opportunities as a React Developer, So feel free to mail me [here](mailto:devangsaklani@gmail.com).
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
@@ -11,7 +12,7 @@ My name is Devang Saklani and I'm a Front-end Web developer/Software engineer. I
 [2]: https://www.linkedin.com/in/devangsaklani/
 
 ## &#x270d; Blogs: 
-Apart from coding, I also like to write blogs - you can find my articles at [DEV.to](https://dev.to/devang/) and my recent coding projects on [devang-saklani.web.app](https://devang-saklani.web.app/) 
+Apart from coding, I also like to write blogs - you can find my articles at [DEV.to](https://dev.to/devang/) and my recent coding projects on [devang-saklani.web.app](https://devang-saklani.web.app/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
