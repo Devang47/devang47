@@ -32,8 +32,8 @@ Apart from coding, I also like to write blogs - you can find my articles at [DEV
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Devang47&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-<a href="https://github.com/Devang47/Javascript-animated-Spinners-with-AnimeJS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devang47&repo=Javascript-animated-Spinners-with-AnimeJS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Devang47/Animated-Spinners">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devang47&repo=Animated-Spinners&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
