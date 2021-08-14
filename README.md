@@ -1,25 +1,17 @@
-[![Header](https://raw.githubusercontent.com/Devang47/devang47/Header-min.jpg"Header")](https://devang-saklani.web.app/)
+[![Header](https://raw.githubusercontent.com/Devang47/devang47/master/Header-min.jpg "Header")](https://devang-saklani.web.app/)
 
 
-<h1 align="center">Hi 👋, I'm Devang Saklani</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+# Hi, Folks  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+### My name is Devang Saklani and I'm a Front-end Web developer/Software engineer. I'm from Dehradun, living in India and currently learning Three-JS. I am also looking for Internship opportunities as a React Developer, So feel free to mail me [here](mailto:devangsaklani@gmail.com). You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
-- 🔭 I’m currently working on [Chat-app using Firestore & React](https://github.com/Devang47/Super-Chat)
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1]: https://twitter.com/DevangSaklani
+[2]: https://www.linkedin.com/in/devangsaklani/
 
-- 🌱 I’m currently learning **React and Three-JS**
-
-- 👨‍💻 All of my projects are available at [https://devang-saklani.web.app/](https://devang-saklani.web.app/)
-
-- 📫 How to reach me **devangsaklani@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Add a 'Slider' to your Website using CSS and Javascript](https://dev.to/devang/add-a-slider-to-your-website-using-css-and-javascript-238e)
-- [Making a URL Shortener website using Axios](https://dev.to/devang/making-a-url-shortener-website-using-axios-4agf)
-- [The master guide to smooth, realistic shadows in CSS](https://dev.to/devang/the-master-guide-to-smooth-realistic-shadows-in-css-463p)
-- [New Javascript (AnimeJS) spinners for website (examples & source code)](https://dev.to/devang/new-javascript-animejs-spinners-for-website-examples-source-code-4j8e)
-<!-- BLOG-POST-LIST:END -->
+## &#x270d; Blogs: 
+Apart from coding, I also like to write blogs - you can find my articles at [DEV.to](https://dev.to/devang/) and my recent coding projects on [devang-saklani.web.app](https://devang-saklani.web.app/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
