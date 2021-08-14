@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/Devang47/devang47/Header-min.png  "Header")](https://devang-saklani.web.app/)
+[![Header](https://raw.githubusercontent.com/Devang47/devang47/Header-min.jpg"Header")](https://devang-saklani.web.app/)
 
 
 <h1 align="center">Hi 👋, I'm Devang Saklani</h1>
