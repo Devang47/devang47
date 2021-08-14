@@ -3,7 +3,7 @@
 
 # Hi, Folks  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Devang Saklani and I'm a Front-end Web developer/Software engineer. I'm from Dehradun, living in India and currently learning Three-JS. I am also looking for Internship opportunities as a React Developer, So feel free to mail me [here](mailto:devangsaklani@gmail.com). You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+My name is Devang Saklani and I'm a Front-end Web developer/Software engineer. I'm from Dehradun, India and currently learning Three-JS. I am also looking for Internship opportunities as a React Developer, So feel free to mail me [here](mailto:devangsaklani@gmail.com). You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
