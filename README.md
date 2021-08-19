@@ -32,11 +32,13 @@ Apart from coding, I also like to write blogs - you can find my articles at [DEV
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Devang47&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=242C37" alt="Martin's GitHub Stats" />
 </a>
 
-<a href="https://github.com/Devang47/Animated-Spinners">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devang47&repo=Animated-Spinners&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=242C37" />
-</a>
-
 
 <a href="https://github.com/Devang47/Three-js-Starter-Template">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devang47&repo=Three-js-Starter-Template&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=242C37" />
 </a>    
+
+<a href="https://github.com/Devang47/Project-Placeholderr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devang47&repo=Project-Placeholderr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=242C37" />
+</a>
+
+
