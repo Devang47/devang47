@@ -34,12 +34,12 @@ Apart from coding, I also like to write blogs - you can find my articles at [DEV
 </a>
 
 
-<a href="https://github.com/Devang47/Three-js-Starter-Template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devang47&repo=Three-js-Starter-Template&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=242C37" />
+<a href="https://github.com/Devang47/Impulse.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devang47&repo=Impulse.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=242C37" />
 </a>    
 
-<a href="https://github.com/Devang47/Project-Placeholderr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devang47&repo=Project-Placeholderr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=242C37" />
+<a href="https://github.com/Devang47/Token-Generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devang47&repo=Token-Generator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=242C37" />
 </a>
 
 
