@@ -35,7 +35,7 @@ Apart from coding, I also like to write blogs - you can find my articles at [DEV
 
 
 <a href="https://github.com/Devang47/Impulse.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devang47&repo=Impulse.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=242C37" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devang47&repo=Impulse&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=242C37" />
 </a>    
 
 <a href="https://github.com/Devang47/Token-Generator">
