@@ -13,7 +13,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [2]: https://www.linkedin.com/in/devangsaklani/
 
 ## &#x270d; Blogs: 
-Apart from coding, I also like to write blogs - you can find my articles at [DEV.to](https://dev.to/devang/) and my recent coding projects on [devang-saklani.web.app](https://devang-saklani.web.app/).
+Apart from coding, I also like to write blogs - you can find my articles at [DEV.to](https://dev.to/devang/) and my recent coding projects on [saklani.dev/](https://saklani.dev/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
