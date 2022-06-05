@@ -1,7 +1,7 @@
 [![Header](https://raw.githubusercontent.com/Devang47/devang47/master/Header-min.png "Header")](https://saklani.dev/)
 
 
-# Hi, Folks  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, Folks  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'>
 
 My name is Devang Saklani and I'm a Web developer/Software engineer. I'm from Dehradun, India. <br>
 I am currently looking for Job opportunities as a Web Developer, So feel free to mail me [here](mailto:devangsaklani@gmail.com). <br>
