@@ -4,9 +4,9 @@
 
 # Hi, Folks  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'>
 
-Hello! I’m Devang Saklani — curious developer based in Uttarakhand, India 🇮🇳. Interested in  meditation, travelling,  websites,  science & developer tools,  human interactions. <br>
+I’m Devang Saklani — a curious developer based in Uttarakhand, India 🇮🇳. Interested in  meditation, traveling,  websites,  science & developer tools, and human interactions. <br>
 
-I’m currently looking for new opportunities as a Software Engineer. If you have anything for me or just want to say hi, feel free to message me, my inbox is always open. I’ll try my best to get back to you! <br>  <br>
+I’m currently looking for new opportunities as a Software Engineer. If you have anything for me or want to say hi, feel free to message me, my inbox is always open. I’ll try my best to get back to you! <br>  <br>
 [My Email](mailto:devangsaklani@gmail.com) <br>
 [Portfolio](saklani.dev)<br>
 
