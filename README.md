@@ -1,5 +1,5 @@
 
-[![Header](https://github.com/user-attachments/assets/5bc1c248-5872-4893-910e-a0ecb0e8f2b3 "Header")](https://saklani.dev/)
+[![Header](https://github.com/user-attachments/assets/c14243ae-0475-415f-b812-ea04e0be8e6a "Header")](https://saklani.dev/)
 
 Hi, I'm Devang.
 
